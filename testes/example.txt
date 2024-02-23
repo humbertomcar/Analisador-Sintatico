@@ -1,0 +1,11 @@
+for(i = 0; i = 0; ++i) {
+int l;
+vet vector = sapao[10+1];
+}
+
+int main() {
+ int num1 = 123;
+ float num2 = 45.67;
+ char letra = "A";
+ return 0;
+ }
